@@ -1,0 +1,12 @@
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\bin\Debug\net6.0\DSMartEntities.deps.json
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\bin\Debug\net6.0\DSMartEntities.dll
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\bin\Debug\net6.0\DSMartEntities.pdb
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.csproj.AssemblyReference.cache
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.AssemblyInfoInputs.cache
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.AssemblyInfo.cs
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.csproj.CoreCompileInputs.cache
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.dll
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\refint\DSMartEntities.dll
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\DSMartEntities.pdb
+E:\Working\Daisy\DSMARTApi\ServerCode\DSMartEntities\obj\Debug\net6.0\ref\DSMartEntities.dll
